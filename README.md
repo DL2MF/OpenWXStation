@@ -13,6 +13,10 @@ LilyGO T-Display S3 [https://www.lilygo.cc/](https://lilygo.cc/products/t-displa
 
 <img width="342" height="189" alt="grafik" src="https://github.com/user-attachments/assets/792da0a4-045d-4128-adcb-0ce198115383" />
 
+
+<img width="1505" height="1186" alt="grafik" src="https://github.com/user-attachments/assets/6cea8db7-0986-4223-8446-ce85fb2f5b79" />
+
+
 ### ... but OpenWXStation is even more - it's a tiny and versatile Radiosonde Decoder Station Manager.
 
 <img width="342" height="191" alt="grafik" src="https://github.com/user-attachments/assets/4407226a-7450-4003-acd5-29d978e589a0" />
@@ -59,7 +63,7 @@ The info page shows WiFi/RSSI, IP, last update, errors, uptime, battery voltage,
 
 ## Web configuration page (v1.2)
 After WiFi is connected, open **http://&lt;ip&gt;/** (the IP is shown for a few seconds after boot and on the info page)
-or **http://openwx-display.local/**.
+or **http://openwx-station.local/**.
 - Live status (weather, WiFi, uptime, battery, memory)
 - Place search (Open-Meteo geocoding, runs in your browser) → fills name, latitude, longitude
 - All config.yaml settings as a form; *Save settings* writes config.yaml to SPIFFS and applies it immediately
