@@ -11,19 +11,31 @@ and [OpenWXFleetMonitor](https://github.com/DL2MF/OpenWX-Fleet-Monitor).
 ## Parts used:
 LilyGO T-Display S3 [https://www.lilygo.cc/](https://lilygo.cc/products/t-display-s3-copy)   
 
-<img width="342" height="189" alt="grafik" src="https://github.com/user-attachments/assets/792da0a4-045d-4128-adcb-0ce198115383" />
 
+## Integrated Weatherstation configurable for different Weatherservices
 
 <img width="1505" height="1186" alt="grafik" src="https://github.com/user-attachments/assets/6cea8db7-0986-4223-8446-ce85fb2f5b79" />
 
+## Device UI displaying same detailed weather data
 
-### ... but OpenWXStation is even more - it's a tiny and versatile Radiosonde Decoder Station Manager.
+<img width="342" height="189" alt="grafik" src="https://github.com/user-attachments/assets/792da0a4-045d-4128-adcb-0ce198115383" />
+
+<img width="340" height="189" alt="grafik" src="https://github.com/user-attachments/assets/c8d904b4-f8ef-4502-b0e1-e1c9d9f5dddc" />
+
+<img width="342" height="191" alt="grafik" src="https://github.com/user-attachments/assets/2574d2a3-e467-4c35-b20a-98b3c63360a1" />
+
+<img width="336" height="189" alt="grafik" src="https://github.com/user-attachments/assets/cbc4def8-d689-4c76-8e3a-af7994a2c310" />
+
+
+## ... but OpenWXStation is even more - It's a tiny and versatile Station Manager for your Radiosonde Decoder Gateways.
 
 <img width="342" height="191" alt="grafik" src="https://github.com/user-attachments/assets/4407226a-7450-4003-acd5-29d978e589a0" />
 
+<img width="340" height="189" alt="grafik" src="https://github.com/user-attachments/assets/362b44bb-5077-4768-bf77-4b50fc4d0eea" />
+
+##  Local Webserver hosted on T-Display S3 with OpenWXStation
 
 <img width="1671" height="997" alt="grafik" src="https://github.com/user-attachments/assets/df6ef8b3-e0ec-40a2-beef-c5d602a895ab" />
-
 
 <img width="1666" height="991" alt="grafik" src="https://github.com/user-attachments/assets/e65849ed-c1b1-4dd9-9b01-ce3e7b0291af" />
 
