@@ -1,14 +1,18 @@
-# OpenWXStation - A Weather Station for LilyGO T-Display S3
+<img width="595" height="124" alt="grafik" src="https://github.com/user-attachments/assets/e022ffb9-4a60-47b1-bb65-20e34e792b1f" />
+
 
 _Based on ["Cheap Internet Weather Station using LilyGo T-Display S3" by Volos Projects.](https://github.com/VolosR/tDisplayS3WeatherStation)_
 
-## This is an ESP32 Internet Weather station project using the LilyGo T-Display S3. 
+## ESP32 Internet Weather station project using the LilyGo T-Display S3. 
 
 It's fully integrated into the OpenWX Suite with:
 [OpenWXSDR](https://github.com/DL2MF/OpenWXSDR), [OpenWXTTGO](https://github.com/DL2MF/OpenWXTTGO), [OpenWXDeck](https://github.com/DL2MF/OpenWXDeck) 
 and [OpenWXFleetMonitor](https://github.com/DL2MF/OpenWX-Fleet-Monitor).
 
 ## Parts used:
+
+<img width="638" height="337" alt="grafik" src="https://github.com/user-attachments/assets/0213c594-bdd3-4ea7-9fde-88a7d7996257" />
+
 LilyGO T-Display S3 [https://www.lilygo.cc/](https://lilygo.cc/products/t-display-s3-copy)   
 
 
@@ -32,6 +36,8 @@ LilyGO T-Display S3 [https://www.lilygo.cc/](https://lilygo.cc/products/t-displa
 <img width="342" height="191" alt="grafik" src="https://github.com/user-attachments/assets/4407226a-7450-4003-acd5-29d978e589a0" />
 
 <img width="340" height="189" alt="grafik" src="https://github.com/user-attachments/assets/362b44bb-5077-4768-bf77-4b50fc4d0eea" />
+
+https://github.com/user-attachments/assets/18e50a10-9580-46b6-88e5-e9233bd1aef0
 
 ##  Local Webserver hosted on T-Display S3 with OpenWXStation
 
